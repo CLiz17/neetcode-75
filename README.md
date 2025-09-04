@@ -1,2 +1,5 @@
-# dsa
-CodeChef probs topic-wise
+## Neetcode 75
+
+### Easy
+
+- Arrays & Hashing [0/3]
